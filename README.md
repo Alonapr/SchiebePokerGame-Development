@@ -9,5 +9,3 @@ How to run the game:
 1. Download the repository and open the distribution folder.
 2. Navigate to the bin folder.
 3. Start the application by running projekt1.bat.
-
-The project implements a Schiebepoker game using Kotlin and the BoardGameWork framework.
